@@ -4,8 +4,8 @@ body {
    }
    
  /* Table of Contents navigation */
- .toc {
-    background: #ebc6f9;
+ .toc a {
+      font size: 25px;
  }
     #masthead {
     border-bottom: 2px solid #ffffff;
