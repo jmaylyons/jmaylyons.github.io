@@ -27,6 +27,8 @@ padding:0;
 a:link,a:visited
 {
 display:block;
+ font: 100% "Arial Bold", Arial,
+  sans-serif;
 font-weight:bold;
 font-size: 25px;
 color:#FFFFFF;
