@@ -5,6 +5,10 @@ body {
    width: 90%;
    }
  
+ /Table of Contents navigation */
+ .toc{
+    background: #ebc6f9;
+ }
     #masthead {
     border-bottom: 2px solid #ffffff;
     margin bottom: 30px;
