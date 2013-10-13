@@ -1,8 +1,8 @@
 body { 
    background: url(https://scontent-b-dfw.xx.fbcdn.net/hphotos-prn2/971320_652399714789545_169744481_n.jpg);
-   margin: 20px auto;
-   max width: 950px;
-   width: 90%;
+   color: 909
+   font: 100% "Palantino Linotype", Palantino,
+   serif;
    }
    
  /* Table of Contents navigation */
