@@ -22,8 +22,13 @@ h1 {
    font-size: 46px;
 }
 
-.nav {
-    position: absolute;
-    top: 7px;
-    right: 0;
+.nav-list
+{
+background-color: #ffffff;
+border-top: 1px solid #ffffff;
+border-bottom: 1px solid #ffffff;
 }
+
+.nav-list-item
+{
+background-color: #ffffff;
