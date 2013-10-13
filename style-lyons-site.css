@@ -23,5 +23,7 @@ h1 {
 }
 
 .nav {
-   margin-top: 45px;
+    position: absolute;
+    top: 7px;
+    right: 0;
 }
