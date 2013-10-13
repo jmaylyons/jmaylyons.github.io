@@ -29,11 +29,6 @@ margin:100px;
 padding:0;
 }
 a:link,a:visited
-ul.pos_left
-{
-position:relative;
-left:-20px;
-}
 {
 display:block;
 font-weight:bold;
