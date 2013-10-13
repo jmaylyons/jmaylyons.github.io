@@ -25,12 +25,12 @@ h1 {
 ul
 {
 position:absolute;
-left:200px;
-top:0px;
+left:100px;
+top:150px;
 }
 {
 list-style-type:none;
-margin:100px;
+margin:0;
 padding:0;
 }
 a:link,a:visited
@@ -39,9 +39,9 @@ display:block;
 font-weight:bold;
 color:#FFFFFF;
 background-color:#98bf21;
-width:175px;
+width:120px;
 text-align:center;
-padding:4px;
+padding:50px;
 text-decoration:none;
 text-transform:uppercase;
 }
