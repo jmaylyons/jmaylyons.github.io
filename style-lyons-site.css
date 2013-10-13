@@ -33,6 +33,16 @@ background-color:#98bf21;
 width:120px;
 text-align:center;
 padding:50px;
+
+#footer-nav li { 
+display:inline; /* gets the list items showing horizontally */ 
+list-style-type:none; /* removes the bullets */ 
+padding:0 5px; /* some space between each item */ 
+margin:-2px !important; /* removes the space left by the bullet point */ 
+margin:0; /* don't need to remove the space for IE */ 
+border-left: 1px solid #ccc; /* instead of the vertical bar */ 
+border-right: 1px solid #aaa; /* a little bit of shadow on the bar */ 
+} 
 text-decoration:none;
 text-transform:uppercase;
 }
