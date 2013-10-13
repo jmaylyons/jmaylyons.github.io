@@ -12,10 +12,7 @@ h1 {
    font-variant: small-caps;
    font-size: 46px;
 }
-#footer-nav li
-{
-display:inline;
-}
+
 ul
 {
 position:absolute;
@@ -37,4 +34,8 @@ width:120px;
 text-align:center;
 padding:50px;
 
-
+div#footer li{
+	width:155px;
+	display:inline-block;
+	text-align:center;
+}
