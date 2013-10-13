@@ -25,8 +25,8 @@ h1 {
 ul
 {
 position:absolute;
-left:100px;
-top:150px;
+right:0px;
+top:0px;
 }
 {
 list-style-type:none;
