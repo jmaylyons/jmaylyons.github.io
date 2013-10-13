@@ -1,6 +1,5 @@
 body { 
-   background: url(https://scontent-b-dfw.xx.fbcdn.net/hphotos-prn2/971320_652399714789545_169744481_n.jpg); 
-   repeat-x;
+   background: url(https://scontent-b-dfw.xx.fbcdn.net/hphotos-prn2/971320_652399714789545_169744481_n.jpg)  repeat-x; 
    margin: 20px auto;
    max width: 950px;
    width: 90%;
