@@ -17,4 +17,6 @@ h1, h2, h3 {
      font: 100% "Arial Bold", Arial,
    sans-serif;
 }
-
+h1 {
+   font-variant: small-caps;
+}
