@@ -2,6 +2,10 @@ body {
    background: url(https://scontent-b-dfw.xx.fbcdn.net/hphotos-prn2/971320_652399714789545_169744481_n.jpg);
   
    }
+   
+   .boxed {
+  border: 1px solid green ;
+}
 
 
 h1, h2, h3 {
@@ -42,9 +46,6 @@ width:120px;
 text-align:center;
 padding:50px;
 
-.boxed {
-  border: 1px solid white ;
-}
 
 div#footer li{
 	width:120px;
