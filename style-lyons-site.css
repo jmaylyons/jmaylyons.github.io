@@ -4,10 +4,7 @@ body {
    }
    
    .boxed {
-  width: 100px;
-  height: 50px;
   border: 1px solid green ;
-
 }
 
 
@@ -45,6 +42,13 @@ font-weight:bold;
 font-size: 25px;
 color:#FFFFFF;
 background-color:#98bf21;
-width:100px;
+width:120px;
 text-align:center;
 padding:50px;
+
+
+div#footer li{
+        width:120px;
+        display:inline-block;
+        text-align:center;
+}
