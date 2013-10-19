@@ -52,3 +52,12 @@ div#footer li{
 	display:inline-block;
 	text-align:center;
 }
+#footer_content{
+        min-height:200px;
+        width:100%;
+        min-width:1024px;
+        float:left;
+        background-color:#29809E;
+        bottom:0;
+        display: block;
+    }
