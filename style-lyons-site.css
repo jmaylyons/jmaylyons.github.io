@@ -35,7 +35,7 @@ padding:0;
 }
 a:link,a:visited
 {
-display:block;
+display:inline;
  font: 100% "Arial Bold", Arial,
   sans-serif;
 font-weight:bold;
