@@ -47,11 +47,7 @@ text-align:center;
 padding:50px;
 
 
-div#footer li{
-	width:120px;
-	display:inline-block;
-	text-align:center;
-}
+div#footer 
 #footer_content{
         min-height:200px;
         width:100%;
