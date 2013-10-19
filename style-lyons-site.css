@@ -42,14 +42,11 @@ font-weight:bold;
 font-size: 25px;
 color:#FFFFFF;
 background-color:#98bf21;
-width:120px;
+width:100px;
 text-align:center;
 padding:50px;
 
-#footer_content{
-        min-height:200px;
-        min-width:1024px;
-        float:left;
-        background-color:#29809E;
-        bottom:0;
-    }
+    #footerBar {
+    height: 40px;
+    background: red
+}
