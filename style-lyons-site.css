@@ -58,3 +58,9 @@ div#footer li{
 	width: 100px;
 	float: right;
 	background-color: #099;
+	
+	p.ex
+{
+height:100px;
+width:100px;
+}
