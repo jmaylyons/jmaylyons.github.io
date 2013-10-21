@@ -51,15 +51,8 @@ text-align:center;
 padding:50px;
 
 
-div#footer li{
-        width:120px;
-        display:inline-block;
-        text-align:center;
-        
-}
-
 #navigation {
 	width: 100px;
 	float: right;
-	background-color: #099;
+	
 	
