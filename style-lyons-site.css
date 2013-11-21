@@ -57,19 +57,13 @@ padding:50px;
 
     </ul>
     
-<style>
-#nav {
-    list-style: none;
-    font-weight: bold;
-    margin-bottom: 10px;
-    width: 100%;
-    text-align: center;
 }
 
 #nav ul {
     list-style-type: none;
     margin: 0px;
     padding: 0;
+    float: left;
 
 
 	
