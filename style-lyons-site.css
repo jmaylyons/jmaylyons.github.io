@@ -26,7 +26,20 @@ h2 {
 
 ul
 {
-float: left;
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+li
+{
+float:left;
+}
+a
+{
+display:block;
+width:60px;
+background-color:#dddddd;
 }
 
 a:link,a:visited
