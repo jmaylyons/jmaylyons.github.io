@@ -42,19 +42,6 @@ width:60px;
 background-color:#dddddd;
 }
 
-a:link,a:visited
-{
-display:inline;
- font: 100% "Arial Bold", Arial,
-  sans-serif;
-font-weight:bold;
-font-size: 25px;
-color:#FFFFFF;
-background-color:#98bf21;
-width: 70px;
-padding:50px;
-}
-
 }
 
 #nav ul {
