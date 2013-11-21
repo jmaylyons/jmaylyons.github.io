@@ -28,13 +28,10 @@ ul
 {
 float: left;
 }
-li
-{
-display:inline;
-}
+
 a:link,a:visited
 {
-display:block;
+display:inline;
  font: 100% "Arial Bold", Arial,
   sans-serif;
 font-weight:bold;
