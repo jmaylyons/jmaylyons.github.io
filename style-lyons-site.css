@@ -1,7 +1,5 @@
-body { 
-   background: url(https://scontent-b-dfw.xx.fbcdn.net/hphotos-prn2/971320_652399714789545_169744481_n.jpg);
-  
-   }
+body 
+{background-color:#aec6cf;}
    
    .boxed {
   border: 1px solid green ;
