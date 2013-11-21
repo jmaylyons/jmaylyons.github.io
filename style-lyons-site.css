@@ -26,9 +26,7 @@ h2 {
 
 ul
 {
-position:absolute;
-right:10px;
-top:0px;
+float: left;
 }
 
 a:link,a:visited
