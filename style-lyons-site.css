@@ -46,6 +46,32 @@ padding:50px;
 
 #navigation {
 	width: 100px;
+    <ul>
+                                <li><a href="index.html">Home</a></li>
+                                <li><a href="about.html">About</a></li>
+                                <li><a href="resume.html">Resume</a></li>
+                                <li><a href="work.html">Work</a></li>
+                                <li><a href="blog.html">Blog</a></li>
+       
+
+
+    </ul>
+</div>
+<style>
+#nav {
+    list-style: none;
+    font-weight: bold;
+    margin-bottom: 10px;
+    width: 100%;
+    text-align: center;
+}
+
+#nav ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0;
+
+
 	
 }	
 	
