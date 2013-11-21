@@ -45,7 +45,7 @@ padding:50px;
 }
 
 #navigation {
-	width: 100px;
+	
     <ul>
                                 <li><a href="index.html">Home</a></li>
                                 <li><a href="about.html">About</a></li>
@@ -56,7 +56,7 @@ padding:50px;
 
 
     </ul>
-</div>
+    
 <style>
 #nav {
     list-style: none;
