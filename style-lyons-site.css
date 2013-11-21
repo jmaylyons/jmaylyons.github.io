@@ -28,7 +28,10 @@ ul
 {
 float: left;
 }
-
+li
+{
+display:inline;
+}
 a:link,a:visited
 {
 display:block;
