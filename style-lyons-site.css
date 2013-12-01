@@ -50,7 +50,7 @@ background-color:#dddddd;
     background: url(../images/boxBottom.jpg); 
     background-repeat: no-repeat
     background-attachment: scroll left bottom;
-    background-position: left bottom;
+    background-position: center top;
     margin-bottom: 10px;
     padding: 0 0 15px;
     width: 250px;
@@ -64,8 +64,8 @@ background-color:#dddddd;
     background: url(../images/box.jpg) repeat scroll 0 0;
     color: #000;
     font-size: 17px;
-    height: 35px;
-    line-height: 30px;
+    height: 100px;
+    line-height: 95px;
     margin: 0;
     padding: 0 15px;
   
