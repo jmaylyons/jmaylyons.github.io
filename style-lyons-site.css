@@ -41,7 +41,6 @@ display:block;
 width:60px;
 background-color:#dddddd;
 }
-
 /* .box div holds the bottom image */
 
 
@@ -50,7 +49,7 @@ background-color:#dddddd;
     background: url(../images/boxBottom.jpg); 
     background-repeat: no-repeat
     background-attachment: scroll left bottom;
-    background-position: center top;
+    background-position: left bottom;
     margin-bottom: 10px;
     padding: 0 0 15px;
     width: 250px;
@@ -64,8 +63,8 @@ background-color:#dddddd;
     background: url(../images/box.jpg) repeat scroll 0 0;
     color: #000;
     font-size: 17px;
-    height: 100px;
-    line-height: 95px;
+    height: 35px;
+    line-height: 30px;
     margin: 0;
     padding: 0 15px;
   
@@ -77,11 +76,11 @@ background-color:#dddddd;
 
     background: #ffffff none repeat scroll 0 0;
     border-color: #CCC;
-    border-width: 50px;
+    border-width: 0 1px;
     border-style: solid;
     color: #444444;
-    font-size: 35px;
-    line-height: 5.3em;
+    font-size: 11px;
+    line-height: 1.3em;
     margin: 0;
     padding: 15px 14px 0;
     width: 220px;
