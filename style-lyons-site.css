@@ -22,12 +22,10 @@ h2 {
 h1.art_head
 margin-bottom: 15px; padding: 0px; border: 0px; outline: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 17px; background-color: #ffffff; text-align: center;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 19px;"
 
-header {
-    background-color: #ffffff;
-    height: 90px;
-    
 }
 header nav {
+   background-color: #286C6E;
+   height: 90px;
         float:left;
         margin-top:25px;
 }
