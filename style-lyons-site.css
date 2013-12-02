@@ -47,4 +47,11 @@ a:hover,a:active
 background-color:#FFFFFF;
 }
 
+header h1 {
+    word-spacing: 20px;
+    background-position:center;
+    background-color: #6AD3E8;
+    padding: 10px 0px 10px 0px ;
+    margin: 0px;
+}
 
