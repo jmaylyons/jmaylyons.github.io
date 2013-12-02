@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 body {
    background-color:#aec6cf;
@@ -24,7 +23,6 @@ h2 {
 
 p.pos_fixed
 {
-position:fixed;
 top:30px;
 right:5px;
 }
