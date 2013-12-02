@@ -10,7 +10,7 @@ article {
 width: 50%;
 }
 
-h1, {
+h1 {
     color: white;
      font: 100% "Arial Bold", Arial,
    sans-serif;
@@ -19,6 +19,7 @@ h1 {
    font-variant: small-caps;
    font-size: 46px;
 }
+
 h2 
 {       color: black;
 	font-size: 25px;
