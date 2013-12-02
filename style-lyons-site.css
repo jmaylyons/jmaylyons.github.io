@@ -22,6 +22,16 @@ h2 {
 h1.art_head
 margin-bottom: 15px; padding: 0px; border: 0px; outline: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 17px; background-color: #ffffff; text-align: center;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 19px;"
 
+nav {
+background-color: #ffffff;
+	height: 23px;
+	padding: 0px 5px 5px 5px;
+	width: auto;
+	text-align: left;
+	font-size: 15px;
+	font: "Arial Bold", Arial
+	font-variant: small-caps;
+}
 }
 header nav {
    background-color: #286C6E;
