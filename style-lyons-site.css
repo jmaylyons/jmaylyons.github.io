@@ -24,13 +24,7 @@ h2 {
 }
 h1.art_head
 margin-bottom: 15px; padding: 0px; border: 0px; outline: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 17px; background-color: #ffffff; text-align: center;"><span style="margin: 0px; padding: 0px; border: 0px; outline: 0px; font-weight: inherit; font-style: inherit; font-family: inherit; font-size: 19px;"
-ul
-{
-list-style-type:none;
-margin:0;
-padding:0;
-overflow:hidden;
-}
+
 li
 {
 float:left;
@@ -41,13 +35,6 @@ display:block;
 width:60px;
 background-color:#dddddd;
 }
-
-
-#nav ul {
-    list-style-type: none;
-    margin: 0px;
-    padding: 0;
-    float: left;
 
 
 	
