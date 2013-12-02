@@ -2,7 +2,10 @@
 body {
    background-color:#aec6cf;
 }
-
+img 
+{
+float:left;
+}
 article {
         
 width: 50%;
