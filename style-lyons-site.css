@@ -11,7 +11,7 @@ width: 50%;
 }
 
 h1, h2, h3 {
-    color: blue;
+    color: white;
      font: 100% "Arial Bold", Arial,
    sans-serif;
 }
@@ -23,11 +23,6 @@ h2 {
    font-size: 25px;
 }
 
-p.pos_fixed
-{
-top:30px;
-right:5px;
-}
 header
 {
 list-style-type:none;
