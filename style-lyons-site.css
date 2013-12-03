@@ -25,7 +25,12 @@ h2
 	font-size: 25px;
 	
 }
-   
+
+p {
+	font: 100% "Arial Bold", Arial
+	font size: 15px;
+}
+
 
 nav, footer {
 background-color: #ffffff;
