@@ -1,13 +1,13 @@
 body {
    background-color:#b4e9f3;
-   font: 100% "Arial Bold", Arial,
+   font: "Arial Bold", Arial,
    sans-serif;
 }    
 
-img 
-{
+img {
 float:right;
 }
+
 article {
         
 width: 100%;
